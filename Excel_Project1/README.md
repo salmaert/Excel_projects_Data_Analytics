@@ -38,6 +38,8 @@ The dataset contains detailed information for data science jobs, including:
 
 ### 2. Charts
 
+<img width="464" height="244" alt="image" src="https://github.com/user-attachments/assets/69cd72c7-a56b-410d-85c2-750184fdb360" />
+
 #### a. Data Science Job Salaries – Bar Chart
 - **Excel Features:** Horizontal bar chart, formatted salary values, optimized layout.
 - **Design Choice:** Horizontal bars for visual comparison of median salaries.
