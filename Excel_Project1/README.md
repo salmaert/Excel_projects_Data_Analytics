@@ -68,7 +68,9 @@ The dataset contains detailed information for data science jobs, including:
   
 ![imagealt](https://github.com/salmaert/Excel_projects_Data_Analytics/blob/61594dcd3db7aadbb766505cbb686c57c9310f5a/Excel_Project1/Project_1.2.png)
 
-## 🔹 KPI Section – Median Salary • Jobs Source • Count Salary  
+## KPI Section – Median Salary • Jobs Source • Count Salary  
+
+![imagealt](https://github.com/salmaert/Excel_projects_Data_Analytics/blob/287863c3b570d3b0d459faa5c21187ba6f6258fa/Excel_Project1/Project_1.3.png)
 
 🛠️ **Excel Features:** KPI cards update automatically when filters are applied.  
 📊 **Displayed Metrics:**  
