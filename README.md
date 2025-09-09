@@ -17,7 +17,7 @@ This project includes four main analyses. Each one is briefly explained here, wi
 <img width="846" height="181" alt="Project_2 2" src="https://github.com/user-attachments/assets/4f4e1441-4f3c-4d97-8ea2-1dd4cdb77944" />
  
 👉 Purpose: Compares **median salaries** for each job title in **US vs Non-US** markets, highlighting the pay gap.  
-📂 Details: See [02_Salary_Region.md](details/02_Salary_Region.md)  
+📂 Details: See [02_Salary_Region.md](Excel_Project2/README.md)  
 
 ---
 
@@ -25,7 +25,7 @@ This project includes four main analyses. Each one is briefly explained here, wi
 <img width="738" height="191" alt="Project_2 1" src="https://github.com/user-attachments/assets/06018f66-65ee-427d-9f0a-96addccc1113" />
 
 👉 Purpose: Shows which **technical skills** (Python, SQL, AWS, etc.) appear most often in job postings.  
-📂 Details: See [03_Top_Skills.md](details/03_Top_Skills.md)  
+📂 Details: See [03_Top_Skills.md](Excel_Project2/README.md)  
 
 ---
 
@@ -33,5 +33,5 @@ This project includes four main analyses. Each one is briefly explained here, wi
 -<img width="908" height="224" alt="Project_2 3" src="https://github.com/user-attachments/assets/2e1f6c9a-58f9-4de1-b800-f6e138a8059d" />
  
 👉 Purpose: Highlights the **10 skills with the highest median salaries**, compared with their **frequency of demand**.  
-📂 Details: See [04_Top10_Skills.md](details/04_Top10_Skills.md)  
+📂 Details: See [04_Top10_Skills.md](Excel_Project2/README.md)  
 
