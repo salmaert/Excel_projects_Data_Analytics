@@ -1,6 +1,6 @@
 # Data Science Salary Dashboard
 
-![image alt](https://github.com/salmaert/Excel_projects_Data_Analytics/blob/ea926ab0d06a1d9bb42dde232b7d79eeed15343e/Excel_Project1/Project1_image.png)
+
 
 ## Introduction
 This project presents an **interactive Excel dashboard** that analyzes salaries in data-related professions.  
