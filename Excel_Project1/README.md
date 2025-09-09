@@ -3,7 +3,7 @@
 ## Introduction
 This Excel Salary Dashboard was created to help job seekers analyze salaries for various data-related jobs. It allows users to explore whether they are being adequately compensated and to understand how job title, location, and required skills impact salaries.
 
-![image alt](https://github.com/salmaert/Excel_projects_Data_Analytics/blob/ea926ab0d06a1d9bb42dde232b7d79eeed15343e/Excel_Project1/Project1_image.png)
+![image alt](https://github.com/salmaert/Excel_projects_Data_Analytics/blob/26a70bcc114a57cd5b9459098580d258ac1f8460/Excel_Project1/images/Project1_image.png)
 
 The data used comes from an Excel course dataset, which includes real-world 2023 data science job information with details on job titles, salaries, locations, and essential skills.
 
