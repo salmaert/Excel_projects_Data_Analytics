@@ -38,26 +38,16 @@ The dataset contains detailed information for data science jobs, including:
 
 ### 2. Charts
 
-<img width="464" height="244" alt="image" src="https://github.com/user-attachments/assets/69cd72c7-a56b-410d-85c2-750184fdb360" />
-
 #### a. Data Science Job Salaries – Bar Chart
 - **Excel Features:** Horizontal bar chart, formatted salary values, optimized layout.
 - **Design Choice:** Horizontal bars for visual comparison of median salaries.
 - **Insights:** Quickly identifies salary trends and highlights higher-paying positions.
 
+<img width="464" height="244" alt="image" src="https://github.com/user-attachments/assets/69cd72c7-a56b-410d-85c2-750184fdb360" />
 
-![imagealt](https://github.com/salmaert/Excel_projects_Data_Analytics/blob/61594dcd3db7aadbb766505cbb686c57c9310f5a/Excel_Project1/Project_1.2.png)
+### Formulas & Functions
 
-#### b. Country Median Salaries – Map Chart
-- **Excel Features:** Map chart to plot median salaries globally.
-- **Design Choice:** Color-coded map for visual differentiation of salary levels by region.
-- **Insights:** Understand geographic salary disparities and highlight high/low-paying regions.
-
----
-
-### 3. Formulas & Functions
-
-#### a. Median Salary by Job Title
+####  Median Salary by Job Title
 ```excel
 =MEDIAN(
     IF(
@@ -68,4 +58,36 @@ The dataset contains detailed information for data science jobs, including:
         jobs[salary_year_avg]
     )
 )
+```
+
+
+#### b. Country Median Salaries – Map Chart
+- **Excel Features:** Map chart to plot median salaries globally.
+- **Design Choice:** Color-coded map for visual differentiation of salary levels by region.
+- **Insights:** Understand geographic salary disparities and highlight high/low-paying regions.
+  
+![imagealt](https://github.com/salmaert/Excel_projects_Data_Analytics/blob/61594dcd3db7aadbb766505cbb686c57c9310f5a/Excel_Project1/Project_1.2.png)
+
+## 🔹 KPI Section – Median Salary • Jobs Source • Count Salary  
+
+🛠️ **Excel Features:** KPI cards update automatically when filters are applied.  
+📊 **Displayed Metrics:**  
+- **Median Salary** – central value of salaries for the selected role, country, and type.  
+- **Jobs via** – shows the main job platform used, based on role and country (e.g., Ai-Jobs.net).  
+- **Count Salary** – number of jobs available for the selected Job Title, Country, and Work Type.
+- 💡**Insights Gained:** Provides users with quick, reliable context on salary levels, job availability, and the most relevant job source for the selected filters.  
+
+---
+
+## 🛠️ Tools & Skills  
+- Advanced **Excel formulas** for multi-criteria filtering and calculations  
+- **Dynamic charts** for interactive data visualization  
+- **KPI dashboards** for at-a-glance decision making  
+
+---
+
+## 📜 Conclusion  
+This dashboard was built to showcase insights into salary trends across various data-related job titles.  
+It demonstrates how location and work type influence salary levels and helps users make informed career decisions.  
+
 
