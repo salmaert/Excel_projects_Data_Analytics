@@ -9,7 +9,7 @@ This project includes four main analyses. Each one is briefly explained here, wi
 <img width="850" height="271" alt="Project1_image" src="https://github.com/user-attachments/assets/c16405a1-5b47-41e0-acc6-b96b60d48cc2" />
  
 👉 Purpose: Lets users select a **Job Title, Country, and Contract Type** to instantly view the **median salary, job count, and source**.  
-📂 Details: See [01_Salary_Calculator.md](details/01_Salary_Calculator.md)  
+📂 Details: See [01_Salary_Calculator.md](Excel_Project1/README.md)  
 
 ---
 
