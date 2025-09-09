@@ -7,7 +7,6 @@ This Excel Salary Dashboard was created to help job seekers analyze salaries for
 
 The data used comes from an Excel course dataset, which includes real-world 2023 data science job information with details on job titles, salaries, locations, and essential skills.
 
-**Dashboard File:** [1_Salary_Dashboard.xlsx](#)  
 
 **Excel Skills Used:**
 - 📉 Charts
