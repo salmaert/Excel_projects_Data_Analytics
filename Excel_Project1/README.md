@@ -45,6 +45,9 @@ The dataset contains detailed information for data science jobs, including:
 - **Design Choice:** Horizontal bars for visual comparison of median salaries.
 - **Insights:** Quickly identifies salary trends and highlights higher-paying positions.
 
+
+![imagealt](https://github.com/salmaert/Excel_projects_Data_Analytics/blob/61594dcd3db7aadbb766505cbb686c57c9310f5a/Excel_Project1/Project_1.2.png)
+
 #### b. Country Median Salaries – Map Chart
 - **Excel Features:** Map chart to plot median salaries globally.
 - **Design Choice:** Color-coded map for visual differentiation of salary levels by region.
