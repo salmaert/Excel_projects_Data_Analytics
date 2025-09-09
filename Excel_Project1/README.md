@@ -1,6 +1,4 @@
-<<<<<<< HEAD
-"# Mon Projet" 
-=======
+# 📊 Data Science Salary Calculator  
 
 ## Introduction
 This Excel Salary Dashboard was created to help job seekers analyze salaries for various data-related jobs. It allows users to explore whether they are being adequately compensated and to understand how job title, location, and required skills impact salaries.
@@ -96,4 +94,3 @@ This dashboard was built to showcase insights into salary trends across various 
 It demonstrates how location and work type influence salary levels and helps users make informed career decisions.  
 
 
->>>>>>> c907eee6275c7c4f119db84433b196a6027070b4
